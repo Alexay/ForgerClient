@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Forger</string>
+
+    <string name="title_activity_result">The forged image!</string>
+    <string name="processing_button">Forge!</string>
+    <string name="content_title">Choose the content image:</string>
+    <string name="style_title">Choose the style image:</string>
+    <string name="processing_description">Your device must be connected to the internet. The processing itself may take a few minutes.</string>
+    <string name="dummy_button">Save result</string>
+    <string name="dummy_content">Forging result</string>
+</resources>
